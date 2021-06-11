@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: yellow
+}
+img.{
+    width: 250px;
+    border-radius: 50%;
+    border-width: thick;
+}
+p.{
+    border-radius:50%;
+    color: aqua;
+    font-family: cursive;
+}
+h1.{
+    text-shadow: 2px;
+    font-size: 20px;
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    right: 30px;
+    color: black;
+    cursor: pointer;
+}
